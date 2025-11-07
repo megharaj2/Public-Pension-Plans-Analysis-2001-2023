@@ -118,7 +118,7 @@ After analyzing the Public Plans Database using **Python** and visualizing resul
 ### 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/US_Pension_Plan_Analysis.git
+   git clone https://github.com/megharaj2/Public-Pension-Plans-Analysis-2001-2023.git
 ```
 
 2. Open `Pensionplan.ipynb` in Jupyter Notebook to run the analysis.
